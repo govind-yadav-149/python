@@ -1,0 +1,4 @@
+every one.
+ we are learing file I/O
+using in leptop.
+ like in coding.
